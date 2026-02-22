@@ -1,5 +1,5 @@
 # convert to datetime using to_datetime
-!parse dates while loading data from csv
+!parse dates while loading data from csv /n
 !using day_name on whole series using dt class
 !create column of dayname
 !min and max methods on datetime series
