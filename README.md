@@ -1,10 +1,10 @@
 # convert to datetime using to_datetime
-!parse dates while loading data from csv /n
-!using day_name on whole series using dt class
-!create column of dayname
-!min and max methods on datetime series
-!filtering by dates as string
-!filter by to_datetime
+#parse dates while loading data from csv /n
+#using day_name on whole series using dt class
+#create column of dayname
+#min and max methods on datetime series
+#filtering by dates as string
+#filter by to_datetime
 # set date as index
 # filter data by just passing the date in brackets
 # using a slice to get specific dates data
